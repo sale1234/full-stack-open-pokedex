@@ -19,4 +19,4 @@ jobs:
       - name: Date
         run: |
           date
-          ls -la
+          ls -l
